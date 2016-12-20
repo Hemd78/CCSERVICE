@@ -1,0 +1,2 @@
+# CCSERVICE
+test mode CCService
